@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Brain</string>
+    <string name="service_desc">Counts how many Instagram Reels and YouTube Shorts you swipe through and shows a small floating counter on top of them. It only looks at which app and screen is open and scroll events. It never reads text, messages or passwords, and all data stays on this phone.</string>
+</resources>
